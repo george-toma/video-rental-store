@@ -1,0 +1,12 @@
+{
+  "filmsToRent": [
+    {
+      "title": "Matrix 11",
+      "type": "NEW_RELEASE",
+      "rentingPeriod": 5,
+      "price": 200.0
+    }
+  ],
+  "notFoundFilms": [],
+  "totalPrice": 200.0
+}

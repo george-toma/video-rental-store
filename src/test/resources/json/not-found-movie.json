@@ -1,0 +1,10 @@
+{
+  "filmsToRent": [],
+  "notFoundFilms": [
+    {
+      "title": "not-found-movie",
+      "rentingPeriod": 0
+    }
+  ],
+  "totalPrice": 0.0
+}
